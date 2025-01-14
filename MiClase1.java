@@ -6,5 +6,6 @@ public class MiClase1
         {
             System.out.println("12 * "+ i + " = " + 12 * i + "\n");
         }
+        System.out.println("Como estas");
     }
 }
